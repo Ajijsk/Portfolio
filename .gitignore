@@ -1,0 +1,8 @@
+#ignore node packages
+node_modules/
+
+#Environment files
+.env
+
+#System files
+.DS_Store
